@@ -20,7 +20,7 @@
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="@dimen/cardCornerRadius"
                 app:cardElevation="0dp"
-                android:layout_margin="@dimen/marginCardHome">
+                android:layout_margin="@dimen/marginDefault">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -40,9 +40,9 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="@dimen/marginHomeTitle"
-                        android:layout_marginTop="@dimen/marginHomeTitle"
-                        android:layout_marginEnd="@dimen/marginHomeTitle"
+                        android:layout_marginStart="@dimen/marginDefault"
+                        android:layout_marginTop="@dimen/marginDefault"
+                        android:layout_marginEnd="@dimen/marginDefault"
                         android:text="@string/inicio_frag_tv_que_es"
                         android:textColor="@color/colorPrimaryDark"
                         android:textSize="@dimen/titleSize"
@@ -57,9 +57,9 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="@dimen/marginHomeTitle"
-                        android:layout_marginTop="@dimen/marginHomeTitle"
-                        android:layout_marginEnd="@dimen/marginHomeTitle"
+                        android:layout_marginStart="@dimen/marginDefault"
+                        android:layout_marginTop="@dimen/marginDefault"
+                        android:layout_marginEnd="@dimen/marginDefault"
                         android:text="@string/inicio_frag_tv_que_es_resp"
                         android:textColor="@color/colorPrimary"
                         android:textSize="@dimen/subtitleSize"
@@ -75,7 +75,7 @@
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="@dimen/cardCornerRadius"
                 app:cardElevation="0dp"
-                android:layout_margin="@dimen/marginCardHome">
+                android:layout_margin="@dimen/marginDefault">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -95,9 +95,9 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="@dimen/marginHomeTitle"
-                        android:layout_marginTop="@dimen/marginHomeTitle"
-                        android:layout_marginEnd="@dimen/marginHomeTitle"
+                        android:layout_marginStart="@dimen/marginDefault"
+                        android:layout_marginTop="@dimen/marginDefault"
+                        android:layout_marginEnd="@dimen/marginDefault"
                         android:text="@string/inicio_frag_tv_por_que"
                         android:textColor="@color/colorPrimaryDark"
                         android:textSize="@dimen/titleSize"
@@ -112,9 +112,9 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="@dimen/marginHomeTitle"
-                        android:layout_marginTop="@dimen/marginHomeTitle"
-                        android:layout_marginEnd="@dimen/marginHomeTitle"
+                        android:layout_marginStart="@dimen/marginDefault"
+                        android:layout_marginTop="@dimen/marginDefault"
+                        android:layout_marginEnd="@dimen/marginDefault"
                         android:text="@string/inicio_frag_tv_por_que_resp"
                         android:textColor="@color/colorPrimary"
                         android:textSize="@dimen/subtitleSize"
@@ -130,7 +130,7 @@
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="@dimen/cardCornerRadius"
                 app:cardElevation="0dp"
-                android:layout_margin="@dimen/marginCardHome">
+                android:layout_margin="@dimen/marginDefault">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -150,9 +150,9 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="@dimen/marginHomeTitle"
-                        android:layout_marginTop="@dimen/marginHomeTitle"
-                        android:layout_marginEnd="@dimen/marginHomeTitle"
+                        android:layout_marginStart="@dimen/marginDefault"
+                        android:layout_marginTop="@dimen/marginDefault"
+                        android:layout_marginEnd="@dimen/marginDefault"
                         android:text="@string/inicio_frag_tv_info"
                         android:textColor="@color/colorPrimaryDark"
                         android:textSize="@dimen/titleSize"
@@ -167,9 +167,9 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="@dimen/marginHomeTitle"
-                        android:layout_marginTop="@dimen/marginHomeTitle"
-                        android:layout_marginEnd="@dimen/marginHomeTitle"
+                        android:layout_marginStart="@dimen/marginDefault"
+                        android:layout_marginTop="@dimen/marginDefault"
+                        android:layout_marginEnd="@dimen/marginDefault"
                         android:text="@string/inicio_frag_tv_info_resp"
                         android:textColor="@color/colorPrimary"
                         android:textSize="@dimen/subtitleSize"
